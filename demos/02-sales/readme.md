@@ -63,4 +63,52 @@ Use of Microsoft 365 Copilot is crucial for:
 
 ## Copilot Chat
 
-https://learn.microsoft.com/en-us/training/modules/empower-workforce-copilot-sales/4-prepare-meeting-notes-from-emails
+- Show sample prompts
+
+  ```prompt
+  Summarize all my emails, meetings, and chats over the past 30 days related to DW-104
+  ```
+
+  ```prompt
+  Based on the information that you synthesized from my emails, meetings, and chats, create a list of action items that I'm responsible for.
+  ```
+
+  ```prompt
+  Please rank these action items by order of importance.
+  ```
+
+  ```prompt
+  In all of the action items that you found for me, which ones involve an employee of microsoft
+  ```
+
+  ```prompt
+  Lookup all email conversations about dw-104 and create a table of data, subject, conversation partner
+  ```
+
+  ```prompt
+  In my OneDrive get all pdf books and their title
+  ```
+
+  ```prompt
+  Explain the Prompt Engineering techniques in more detail.
+  ```
+
+- Explain Agents
+
+## Word
+
+- Create a new Word document
+
+- Add the following prompt:
+
+  ```prompt
+  I'm the Sales Manager for Northwind Traders, a supplier of various grocery and beverage products. Please create a report that compares the supplier agreements for three of our customers. Provide a recommendation on contract renewals that can provide Northwind Traders with more favorable terms. The supplier agreements for these three customers are attached. Thank you!
+  ```
+
+- Attach the following files:
+
+  - Contoso Supplier Agreement
+  - Tailwind Traders Supplier Agreement
+  - Wide World Importers Supplier Agreement
+
+- Show regenerate and partial edits

@@ -17,6 +17,14 @@ Use Microsoft 365 Copilot is crucial for:
   ```
 
   ```
+  Based on the information that you synthesized from my emails, meetings, and chats, create a list of action items that I'm responsible for.
+  ```
+
+  ```prompt
+  In all of the action items that you found for me, which ones involve an employee of microsoft
+  ```
+
+  ```
   Lookup all email conversations about dw-104 and create a table of data, subject, conversation partner
   ```
 
