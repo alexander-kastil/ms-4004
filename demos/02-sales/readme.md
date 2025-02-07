@@ -2,10 +2,10 @@
 
 Use of Microsoft 365 Copilot is crucial for:
 
-- Automating data entry. Copilot can help Sales professionals automate repetitive tasks such as data entry. For example, it can help you capture, access, and register data into any customer relationship management (CRM) system.
-- Providing insights. Copilot can help Sales professionals provide lead generation and gain insights into their sales data. For example, it can help you analyze sales trends, identify opportunities, and even predict future outcomes.
-- Improving productivity. Copilot can help Sales professionals save time by automating manual tasks and providing pipeline management. For example, it can help you with scheduling, follow-ups, and even proofreading.
-- Collaboration. Copilot can help Sales professionals collaborate more effectively. For example, it can help you with team communication, document sharing, and even provide reminders.
+- **Automating** data entry. Copilot can help Sales professionals automate repetitive tasks such as data entry. For example, it can help you capture, access, and register data into any customer relationship management (CRM) system.
+- **Providing** insights. Copilot can help Sales professionals provide lead generation and gain insights into their sales data. For example, it can help you analyze sales trends, identify opportunities, and even predict future outcomes.
+- **Improving** productivity. Copilot can help Sales professionals save time by automating manual tasks and providing pipeline management. For example, it can help you with scheduling, follow-ups, and even proofreading.
+- **Collaboration**. Copilot can help Sales professionals collaborate more effectively. For example, it can help you with team communication, document sharing, and even provide reminders.
 
 ## Loop
 

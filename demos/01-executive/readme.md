@@ -2,11 +2,11 @@
 
 Use Microsoft 365 Copilot is crucial for:
 
-- Productivity. Copilot can help executives save time by automating repetitive tasks. For example, it can help you with scheduling, email management, and even proofreading.
-- Insights. Copilot can help executives gain insights into their business. For example, it can help you analyze financial data, identify trends, and even predict future outcomes.
-- Collaboration. Copilot can help executives collaborate more effectively. For example, it can help you with project management, team communication, and even document sharing.
-- Customization. Copilot can be customized to meet the unique needs of executives. For example, it can help you with strategic planning, risk management, and even crisis management.
-- Integration with Microsoft 365. Copilot is integrated with Microsoft 365 apps such as Teams, Word, Outlook, PowerPoint, and Excel. This means that executives can use Copilot within these apps to get help with their work.
+- **Productivity**. Copilot can help executives save time by automating repetitive tasks. For example, it can help you with scheduling, email management, and even proofreading.
+- **Insights**. Copilot can help executives gain insights into their business. For example, it can help you analyze financial data, identify trends, and even predict future outcomes.
+- **Collaboration**. Copilot can help executives collaborate more effectively. For example, it can help you with project management, team communication, and even document sharing.
+- **Customization**. Copilot can be customized to meet the unique needs of executives. For example, it can help you with strategic planning, risk management, and even crisis management.
+- **Integration with Microsoft 365**. Copilot is integrated with Microsoft 365 apps such as Teams, Word, Outlook, PowerPoint, and Excel. This means that executives can use Copilot within these apps to get help with their work.
 
 ## Copilot App
 
