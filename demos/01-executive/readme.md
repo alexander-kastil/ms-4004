@@ -8,6 +8,10 @@ Use Microsoft 365 Copilot is crucial for:
 - **Customization**. Copilot can be customized to meet the unique needs of executives. For example, it can help you with strategic planning, risk management, and even crisis management.
 - **Integration with Microsoft 365**. Copilot is integrated with Microsoft 365 apps such as Teams, Word, Outlook, PowerPoint, and Excel. This means that executives can use Copilot within these apps to get help with their work.
 
+## Learning Resources
+
+[Empower your workforce with Microsoft 365 Copilot: Executives Use Case](https://learn.microsoft.com/en-us/training/modules/empower-workforce-copilot-executives/)
+
 ## Copilot App
 
 - Show sample prompts

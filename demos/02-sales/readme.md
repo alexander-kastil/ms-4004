@@ -7,6 +7,10 @@ Use of Microsoft 365 Copilot is crucial for:
 - **Improving** productivity. Copilot can help Sales professionals save time by automating manual tasks and providing pipeline management. For example, it can help you with scheduling, follow-ups, and even proofreading.
 - **Collaboration**. Copilot can help Sales professionals collaborate more effectively. For example, it can help you with team communication, document sharing, and even provide reminders.
 
+## Learning Resources
+
+[Empower your workforce with Microsoft 365 Copilot: Sales Use Case](https://learn.microsoft.com/en-us/training/modules/empower-workforce-copilot-sales/)
+
 ## Loop
 
 - Create a new workspace

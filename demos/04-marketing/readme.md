@@ -1,58 +1,129 @@
 # Empower your workforce with Microsoft 365 Copilot Use Cases - Marketing
 
-Use Copilot to help Marketing professionals with:
+## Use Cases for Marketing Professionals
 
-- **Generating content:**
+- Marketing professionals can leverage Copilot for:
+  - Content Generation
+    - Create social media posts including hashtags and images
+    - Generate blog topics and research content
+    - Write and refine marketing content
+  - Enhanced Productivity
+    - Task automation
+    - Document formatting
+    - Chart and graph creation
+    - Proofreading support
+  - Data Insights
+    - Social media analytics
+    - Engagement metrics tracking
+    - Posting time optimization
+    - Campaign performance analysis
+  - Team Collaboration
+    - Task management
+    - Deadline tracking
+    - Automated reminder system
+    - Team coordination tools
+  - Microsoft 365 Integration
+    - Teams functionality
+    - Word, Outlook, and PowerPoint support
+    - Excel data analysis
+    - Cross-app capabilities
 
-  - Help create social media posts with suggested hashtags and images
-  - Generate blog post topics and research material
-  - Assist with content writing and refinement
+## Learning Resources
 
-- **Improving productivity:**
+- [Microsoft Learn: Marketing Use Cases for Copilot](https://learn.microsoft.com/en-us/training/modules/empower-workforce-copilot-marketing/)
 
-  - Automate repetitive tasks
-  - Help with document formatting and structuring
-  - Create charts and graphs
-  - Provide proofreading assistance
+## Chat: Interactive Example: Market Analysis
 
-- **Providing insights:**
-
-  - Analyze social media campaign performance
-  - Track post engagement metrics
-  - Identify optimal posting times
-  - Generate campaign analytics
-
-- **Collaboration:**
-
-  - Assist with task assignment
-  - Help manage deadlines
-  - Send automated reminders
-  - Facilitate team coordination
-
-- **Integration with Microsoft 365:**
-  - Seamless integration with Teams
-  - Support in Word, Outlook, and PowerPoint
-  - Excel data analysis assistance
-  - Cross-application functionality
-
-## Chat
-
-- Ask for a market analysis
-
-  ```
+- Example prompts for market research:
+  ```prompt
   I'm the Director for Market Research for Tailspin Toys, a U.S. based toy manufacturer. Conduct a market analysis of the toy industry to identify sales figures, the latest trends, consumer preferences, and the most popular toys in the market.
   ```
+  ```prompt
+  That analysis was great. However, I'm also interested in including data on the toy industry, including market share and consumer feedback. Please amend your prior analysis to include this information.
+  ```
+  ```prompt
+  Please add the market share in percent
+  ```
+  ```prompt
+  With all the information captured, please analyze the data and identify patterns, trends, and insights for Tailspin Toys' upcoming business plan.
+  ```
+  ```prompt
+  Please analyze this market analysis and business plan. What additional information would toy companies typically request? Please amend responses to include this information.
+  ```
 
-- Enhance the analysis
+## Best Practices
 
+- Provide Context
+  - Give Copilot specific roles and viewpoints
+  - Include company background
+- Improve Prompts
+  - Start broad, then refine
+  - Add specific details iteratively
+  - Request missing information
+- Maintain Professionalism
+  - Use polite language
+  - Be clear and specific
+  - Match desired output tone
+- Stay Curious
+  - Ask for industry-standard information
+  - Request additional perspectives
+  - Explore different angles
+- Iterate and Refine
+  - Build on previous responses
+  - Adjust based on feedback
+  - Experiment with different approaches
+
+## Loop
+
+- Create a new workspace: Outdoor Toys
+- Rename first page: Ideas for Outdoor Toy Campaigns
+- Show "Draft page content" and explain Create, Brainstorm, Blueprint and Describe buttons
+- Brainstorm example:
+  ```prompt
+  Brainstorm 10 ideas for a marketing campaign for a new line of outdoor toys
   ```
-  That analysis was great. However, I'm also interested in including data on the toy industry, including market share and consumer feedback. Please amend your prior analysis to include this information. Thanks!
+- Rewrite example:
+  ```prompt
+  That looks good. However, please rewrite the report by placing the information in a table and provide more specific details for each idea
+  ```
+- Add an Idea example:
+  ```prompt
+  Add an idea for Supermarket store promotions
+  ```
+- Explain Undo
+- Replace example:
+  ```prompt
+  Please replace the final idea in the table with Seasonal Promotions
   ```
 
-  ```
-  I think all the data is complete. With all the information that you captured, please analyze the data and identify patterns, trends, and insights that can help me determine what Tailspin Toys' business plan should be for the upcoming year.
+## Word
+
+- Copilot in Word helps Marketing professionals with:
+
+  - Creating engaging content for blog and social media
+  - Analyzing customer feedback and engagement data
+  - Generating marketing reports with campaign metrics
+  - Optimizing email communication
+  - Preparing meeting agendas
+
+- Show most recent in the Microsoft Copilot App
+
+- Show how to link files for grounding and then enter the following prompt:
+
+  ```prompt
+  I'm the LATAM Marketing Director for Contoso Beverage. Please create a LATAM Market Analysis report for our Mystic Spice Premium Chai Tea beverage. Combine the three attached files to create a report that describes the product, analyzes the market trend for it, and includes a promotion plan for Latin America
   ```
 
-  ```
-  Please analyze the data in this market analysis and business plan. Is there any other information that a toy company would typically request for market analysis and business plans that I failed to request? If so, can you please amend your responses to include this information. Thank you!
-  ```
+- Request a change: strengths and weaknesses of these competitors
+
+```
+This report looks good. However, please add a section titled Competitive Analysis. Review the beverage companies in Latin America that sell Chai Tea and then provide information in this section on the strengths and weaknesses of these competitors, their market share, and their pricing strategies
+```
+
+- Request a change: Distribution Channels
+
+```
+Nice job! One last thing. Please add a section titled Distribution Channels. Review the distribution channels used to sell Chai Tea in Latin America and then provide information in this section on the types of retailers, wholesalers, and distributors used.
+```
+
+## Excel

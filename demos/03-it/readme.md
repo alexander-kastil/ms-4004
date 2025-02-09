@@ -8,6 +8,10 @@ Using Microsoft 365 Copilot is crucial for:
 - **Collaboration:** Copilot can help IT professionals collaborate more effectively. For example, it can help you with project management, team communication, and even document sharing.
 - **Integration with Microsoft 365:** Copilot is integrated with Microsoft 365 apps such as Teams, Word, Outlook, PowerPoint, and Excel. This means that IT professionals can use Copilot within these apps to get help with their work.
 
+## Learning Resources
+
+[Empower your workforce with Microsoft 365 Copilot: IT Use Case](https://learn.microsoft.com/en-us/training/modules/enhance-prompting-copilot-it//)
+
 ## Chat
 
 - Show Copilot Chat in Edge and Copilot App (former Microsoft 365 App)
