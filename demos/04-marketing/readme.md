@@ -127,3 +127,35 @@ Nice job! One last thing. Please add a section titled Distribution Channels. Rev
 ```
 
 ## Excel
+
+Copilot in Excel benefits for Marketing professionals:
+
+- Quick data organization through highlighting, filtering, and sorting capabilities
+- Automated formula suggestions for complex marketing calculations and ROI analysis
+- AI-powered data analysis and visualization for identifying marketing trends
+
+- Open: Contoso Chai Tea market trends 2023.xlsx
+
+- Use the `data insights` button
+
+- Look for a correlation between social Media engagement and sales using a scatter chart.
+
+```
+Show data insights for social media engagement, online searches for chai
+```
+
+- Add the chart to the sheet
+
+- Suggest calculations for the selected data
+
+```
+Show suggestions for formula columns
+```
+
+- Show Explain formula
+
+- How can I highlight, filter, and sort data?
+
+- Show the 'Regenerate' button
+
+!
