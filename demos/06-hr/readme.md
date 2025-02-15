@@ -91,7 +91,7 @@ Add a question about having failed at a project and what they learned from it.
 Create a new multiple choice question:
 
 ```
-Write 5 multible choice questions for Senior Angular Developers with the topics Signals, Signal Store, Signals vs Observables and when to use what and 2 others. Provide answers and explenations in a new paragraph
+Write 5 multiple choice questions for Senior Angular Developers with the topics Signals, Signal Store, Signals vs Observables and when to use what and 2 others. Provide answers and explanations in a new paragraph
 ```
 
 - Enhance a prev loop
