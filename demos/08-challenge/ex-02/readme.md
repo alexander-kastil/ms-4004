@@ -9,3 +9,5 @@ You want to use Microsoft 365 Copilot in Excel to analyze customer feedback and 
 You contracted with a local marketing firm to capture customer feedback and engagement data, which they stored in an Excel spreadsheet. Select the following link to download the Excel file containing this data: [Liberty's Delightful Sinful Bakery & Cafe - Customer feedback](./Liberty's%20Delightful%20Sinful%20Bakery%20&%20Cafe%20-%20Customer%20feedback.xlsx)
 
 Use this spreadsheet to identify trends and insights.
+
+## Solution

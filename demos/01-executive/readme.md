@@ -14,7 +14,7 @@ Use Microsoft 365 Copilot is crucial for:
 
 ## Copilot App
 
-- Show sample prompts
+- Show sample prompts:
 
   ```prompt
   Summarize all my emails, meetings, and chats over the past 30 days related to DW-104
@@ -44,6 +44,11 @@ Use Microsoft 365 Copilot is crucial for:
 
 ## Teams
 
+### Teams Meeting
+
+- Show Recap on Meeting with Thomas
+- Summarize chat for az-204
+
 ### Teams Chat
 
 Visual Designer:
@@ -59,6 +64,8 @@ Writing Coach:
     ```
 
 ## Word
+
+    - Attach Fabrikam 2023 Income Statement.docx
 
     ```prompt
     Write a speech for the Fabrikam stakeholders that summarizes the results of the company's 2023 income statement found in the attached file.
