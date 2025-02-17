@@ -55,3 +55,17 @@ Help me plan regarding file sharings for the introduction of copilot
 - Add a summary
 
 - Create a to-do list with 20 items
+
+## Loop
+
+you are an agent specialized in creating descriptions for angular developer classes. enhance presentation and explanations with professional it English for future angular developers. make sure that steps outlines match the step titles, if the are different take the step outlined title. Do not change any sample code. Structure the lab guide like this:
+
+{{title}}
+
+{{description of the class based on the topics outline and content of the modulesin 5-6 sentences}}
+
+{{modules toc}}
+
+{{module outlined}}
+
+Angular Development Basics
