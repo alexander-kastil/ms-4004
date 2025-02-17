@@ -18,8 +18,14 @@ The use case of the Excel sheet is to collect and organize customer feedback ove
 
 ## Forms
 
+- Create a survey for Excel Training.
+
 Create a survey for Excel Training. The training conducted covered sorting, filtering and pivot tables. The instructor will be Alexander Kastil. Include questions about the effectiveness of the trainer. Consider adding a section for overall feedback and suggestions for improvements.
+
+- Create a candidate interview form
 
 Create a form that can be used to collect information for senior angular developers applying for a job. As for personal data in one section. in another section add 7 multiple choice question about the topics Signals, Signal Store, Change Detetion on Push and other advance Angular Techniques. Provide 4 options
 
-Add a Design
+- Change on question
+
+- Add a Design
