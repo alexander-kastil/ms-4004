@@ -1,6 +1,16 @@
 # Empower your workforce with Microsoft 365 Copilot Use Cases
 
+[M365 Start Site](https://m365.cloud.microsoft/)
+
+[Copilot Dev Site](https://integrationsonline.sharepoint.com/sites/copilot-dev/)
+
+## Survey URL
+
+[Webinar Survey](https://www.metricsthatmatter.com/student/evaluation.asp?k=79335&i=75132)
+
 ## General Links
+
+[Copilot Prompt Gallery](https://copilot.cloud.microsoft/en-US/prompts)
 
 [Empower your workforce with Microsoft 365 Copilot Use Cases](https://learn.microsoft.com/en-us/training/paths/empower-workforce-copilot-use-cases/)
 

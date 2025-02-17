@@ -11,7 +11,9 @@ The use case of the Excel sheet is to collect and organize customer feedback ove
 - Create a table with columns employee id, name, role, hire date, salary, performance rating (poor, average, good). add 15 sampel entries. randomize the hire date between 1,5 and 7 years ago
 
 - Suggest a formula:
+
   - To calculate the years of service
+
 - create a table with columns department and role and add 10 entries to it. departments could be Manager, Developer, Analyst, Designer
 
 - create a column that shows the department for each employee. lookup the department for the department sheet
@@ -29,3 +31,27 @@ Create a form that can be used to collect information for senior angular develop
 - Change on question
 
 - Add a Design
+
+# OneDrive
+
+- Summarize a file in OneDrive
+
+- Create a FAQ document
+
+- Ask questions about the FAQ document
+
+- Compare two documents. For example resumes
+
+## OneNote
+
+- Create a outline for copilot deliver
+
+```
+Help me plan regarding file sharings for the introduction of copilot
+```
+
+- Rewrite a section for clarity and detail, including objectives, methods, and findings.
+
+- Add a summary
+
+- Create a to-do list with 20 items
