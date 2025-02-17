@@ -157,5 +157,3 @@ Show suggestions for formula columns
 - How can I highlight, filter, and sort data?
 
 - Show the 'Regenerate' button
-
-!
