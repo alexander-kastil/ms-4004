@@ -56,6 +56,28 @@ Using Microsoft 365 Copilot is crucial for:
 
 - Save the proposal
 
+- Additional Samples:
+
+  ```prompt
+  Summarize all my emails, meetings, and chats over the past 30 days related to DW-104
+  ```
+
+  ```
+  Based on the information that you synthesized from my emails, meetings, and chats, create a list of action items that I'm responsible for.
+  ```
+
+  ```prompt
+  In all of the action items that you found for me, which ones involve an employee of microsoft
+  ```
+
+  ```
+  Lookup all email conversations about dw-104 and create a table of data, subject, conversation partner
+  ```
+
+  ```
+  In my OneDrive get all pdf books and their title
+  ```
+
 # PowerPoint
 
 - Create a presentation from Contoso CipherGuard Project Plan.docx
