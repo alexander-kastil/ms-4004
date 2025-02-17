@@ -69,3 +69,5 @@ you are an agent specialized in creating descriptions for angular developer clas
 {{module outlined}}
 
 Angular Development Basics
+
+## Loop
