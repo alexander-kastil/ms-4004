@@ -4,10 +4,6 @@
 
 [Copilot Dev Site](https://integrationsonline.sharepoint.com/sites/copilot-dev/)
 
-## Survey URL
-
-[Webinar Survey](https://www.metricsthatmatter.com/student/evaluation.asp?k=79335&i=76425)
-
 ## General Links
 
 [Copilot Prompt Gallery](https://copilot.cloud.microsoft/en-US/prompts)
