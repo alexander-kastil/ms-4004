@@ -1,10 +1,10 @@
 # Empower your workforce with Microsoft 365 Copilot Use Cases
 
-[M365 Start Site](https://m365.cloud.microsoft/)
-
-[Copilot Dev Site](https://integrationsonline.sharepoint.com/sites/copilot-dev/)
+[Copilot Dev Site](https://integrationsonline.sharepoint.com/sites/copilot-demo)
 
 ## General Links
+
+[M365 Start Site](https://www.microsoft365.com/chat)
 
 [Copilot Prompt Gallery](https://copilot.cloud.microsoft/en-US/prompts)
 

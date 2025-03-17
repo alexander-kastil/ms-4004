@@ -58,7 +58,7 @@ Help me plan regarding file sharings for the introduction of copilot
 
 ## Loop
 
-you are an agent specialized in creating descriptions for angular developer classes. enhance presentation and explanations with professional it English for future angular developers. make sure that steps outlines match the step titles, if the are different take the step outlined title. Do not change any sample code. Structure the lab guide like this:
+Create descriptions for angular developer classes. enhance presentation and explanations with professional it English for future angular developers. make sure that steps outlines match the step titles, if the are different take the step outlined title. Do not change any sample code. Structure the lab guide like this:
 
 {{title}}
 
@@ -70,4 +70,29 @@ you are an agent specialized in creating descriptions for angular developer clas
 
 Angular Development Basics
 
-## Loop
+### Angular Introduction
+
+- Angular Introduction & Technology Stack
+- Angular & CLI Essentials
+- Debugging Angular
+- Bootstrapping & Configuration
+- Maintaining & Updating projects
+
+### TypeScript in the Angular Ecosystem
+
+- TypeScript Overview, ECMA Script Standards
+- Const, Variables, Utility Functions
+- Client Side Models: Classes, Interfaces & Types
+- Immutability, Cloning & Object Composition
+- Async Operations, Observables, Signals & Resources
+- Calculated Signals & Effects
+
+### Databinding & Completing Basic Tasks
+
+- Components & Dependency Injection
+- Services & Data Request
+- Expressions, Templates & Directives
+- String Interpolation, Attribute- & Event-Binding, Two-Way Binding
+- Built-in Control Flow & Deferrable Views
+- Data binding Observables & Signals
+- Built in and Custom Pipes & Directives
