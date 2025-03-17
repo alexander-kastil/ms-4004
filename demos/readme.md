@@ -4,6 +4,8 @@
 
 ## General Links
 
+[Webinar Evaluation Link](https://www.metricsthatmatter.com/student/evaluation.asp?k=79335&i=76428)
+
 [M365 Start Site](https://www.microsoft365.com/chat)
 
 [Copilot Prompt Gallery](https://copilot.cloud.microsoft/en-US/prompts)

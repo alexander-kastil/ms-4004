@@ -35,21 +35,32 @@
 ## Chat: Interactive Example: Market Analysis
 
 - Example prompts for market research:
+
   ```prompt
   I'm the Director for Market Research for Tailspin Toys, a U.S. based toy manufacturer. Conduct a market analysis of the toy industry to identify sales figures, the latest trends, consumer preferences, and the most popular toys in the market.
   ```
+
   ```prompt
   That analysis was great. However, I'm also interested in including data on the toy industry, including market share and consumer feedback. Please amend your prior analysis to include this information.
   ```
+
   ```prompt
   Please add the market share in percent
   ```
+
   ```prompt
   With all the information captured, please analyze the data and identify patterns, trends, and insights for Tailspin Toys' upcoming business plan.
   ```
+
   ```prompt
   Please analyze this market analysis and business plan. What additional information would toy companies typically request? Please amend responses to include this information.
   ```
+
+  - LinkedIn Post:
+
+```prompt
+  Out of the result, generate a LinkedIn post for Tailspin Toys, a U.S. based toy manufacturer, announcing the launch of a new line of outdoor toys. The post should be engaging and include relevant hashtags.
+```
 
 ## Best Practices
 
