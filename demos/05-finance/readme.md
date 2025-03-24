@@ -2,10 +2,13 @@
 
 ## Use Cases for Finance Professionals
 
-Automating financial tasks: Copilot can help Finance professionals automate repetitive financial tasks. For example, it can help you with budgeting, forecasting, and even tax preparation.
-Providing insights: Copilot can help Finance professionals gain insights into their financial data. For example, it can help you analyze financial statements, identify trends, and even predict future outcomes.
-Improving productivity: Copilot can help Finance professionals save time by automating manual tasks. For example, it can help you with data entry, report generation, and even proofreading.
-Collaboration: Copilot can help Finance professionals collaborate more effectively. For example, it can help you with project management, team communication, and even document sharing.
+- Automating financial tasks: Copilot can help Finance professionals automate repetitive financial tasks. For example, it can help you with budgeting, forecasting, and even tax preparation.
+
+- Providing insights: Copilot can help Finance professionals gain insights into their financial data. For example, it can help you analyze financial statements, identify trends, and even predict future outcomes.
+
+- Improving productivity: Copilot can help Finance professionals save time by automating manual tasks. For example, it can help you with data entry, report generation, and even proofreading.
+
+- Collaboration: Copilot can help Finance professionals collaborate more effectively. For example, it can help you with project management, team communication, and even document sharing.
 
 ## Learning Resources
 
@@ -88,3 +91,5 @@ Include more details in the summary
 ```prompt
 Based on the information in this document, how would you rate Adatum's financial performance over the past five years? Is it getting better or worse?
 ```
+
+If time permits show Chat and Agents

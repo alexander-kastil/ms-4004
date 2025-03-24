@@ -8,7 +8,7 @@
 
 [M365 Start Site](https://www.microsoft365.com/chat)
 
-[Copilot Prompt Gallery](https://copilot.cloud.microsoft/en-US/prompts)
+[Copilot Prompt Gallery](https://copilot.cloud.microsoft/en-US/prompts/all)
 
 [Empower your workforce with Microsoft 365 Copilot Use Cases](https://learn.microsoft.com/en-us/training/paths/empower-workforce-copilot-use-cases/)
 
